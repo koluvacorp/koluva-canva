@@ -129,6 +129,6 @@ Ce qu’il comprend :
 
 ## Enlaces
 
-- **Descarga directa (Windows x64):** se agrega al publicar la versión; ver README.
+- **Descarga directa (Windows x64):** https://github.com/koluvacorp/koluva-canva/releases/download/canva-v1.0.0/KoluvaCanva-1.0.0-Windows-x64-Setup.exe
 - **Repositorio público:** https://github.com/koluvacorp/koluva-canva
 - **Canal de actualizaciones (firmado):** https://github.com/koluvacorp/koluva-canva/releases/download/canva-stable/latest.json
