@@ -15,3 +15,7 @@ El código fuente no está incluido en este repositorio público. Para una compi
 ## Licencia
 
 Consulta [LICENSE](LICENSE). La publicación de estos artefactos no concede permiso para modificar o redistribuir el código fuente.
+
+## Cambios
+
+Consulta [CHANGELOG.md](CHANGELOG.md).
